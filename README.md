@@ -2,11 +2,14 @@
 
 I'm Shashwat Anand.
 
-Languages
-Python
-C
-C++
-HTML
+* Currently pursuing BTech from LNM Institute of Information Technology
+
+# Experienced with 
+
+*Python
+*C
+*C++
+*HTML/CSS
 <!--
 **Sushiii07/Sushiii07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
