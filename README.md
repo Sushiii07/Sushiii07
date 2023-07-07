@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Shashwat Anand.
+I'm Shashwat Anand
 
-* Currently pursuing BTech from LNM Institute of Information Technology
+* Currently pursuing BTech from LNM Institute of Information Technology.
 
 # Experienced with 
 
