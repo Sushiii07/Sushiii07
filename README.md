@@ -2,8 +2,6 @@
 
 I'm Shashwat Anand
 
-* Currently pursuing BTech from LNM Institute of Information Technology.
-
 # Experienced with 
 
 * Python
